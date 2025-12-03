@@ -1,7 +1,7 @@
 # Тестовое задание для позиции Frontend Developer.
 
-## 🚀 Демо
-[Ссылка на живое демо](https://your-project.vercel.app)
+[![Демо](https://img.shields.io/badge/-Сайт-1E88E5?style=for-the-badge)](https://apart-delivery.ru/)
+[![Исходный код](https://img.shields.io/badge/-ИСХОДНЫЙ_КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/cards-test-task)
 
 ## ✅ Реализованные требования
 
