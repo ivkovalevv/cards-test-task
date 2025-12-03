@@ -1,0 +1,23 @@
+/* ============= VARIABLES ============= */
+
+$primary-color: #FF3F3A;
+$white-color: #ffffff;
+$gray-300-color: #E5E8ED;
+$gray-400-color: #D7DADD;
+$gray-600-color: #9A9CA5;
+$gray-700-color: #787A80;
+$gray-900-color: #1E212C;
+$success-color: #03CEA4;
+$info-color: #5A87FC;
+$warning-color: #F89828;
+$pink-color: #F52F6E;
+$purple-color: #7772F1;
+
+$container-max-width: 1230px;
+
+/* ============= MIXINS ============= */
+
+@mixin margin-padding-reset{
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "category": "Marketing",
+    "title": "The Ultimate Google Ads Training Course",
+    "price": 100,
+    "instructor": "Jerome Bell",
+    "image": "./assets/images/1.jpg",
+    "alt": "Google Ads course illustration"
+  },
+    {
+    "id": 2,
+    "category": "Management",
+    "title": "Product Management Fundamentals",
+    "price": 480,
+    "instructor": "Marvin McKinney",
+    "image": "./assets/images/2.jpg",
+    "alt": "Product management illustration"
+  },
+    {
+    "id": 3,
+    "category": "HR & Recruiters",
+    "title": "HR Management and Analytics",
+    "price": 200,
+    "instructor": "Leslie Alexander Li",
+    "image": "./assets/images/3.jpg",
+    "alt": "HR analytics illustration"
+  },
+  {
+    "id": 4,
+    "category": "Marketing",
+    "title": "Brand Management & PR Communications",
+    "price": 530,
+    "instructor": "Kristin Watson",
+    "image": "./assets/images/4.jpg",
+    "alt": "Brand management illustration"
+  },
+    {
+    "id": 5,
+    "category": "Design",
+    "title": "Graphic Design Basic",
+    "price": 500,
+    "instructor": "Guy Hawkins",
+    "image": "./assets/images/5.jpg",
+    "alt": "Graphic design illustration"
+  },
+    {
+    "id": 6,
+    "category": "Management",
+    "title": "Business Development Management",
+    "price": 400,
+    "instructor": "Dianne Russell",
+    "image": "./assets/images/6.jpg",
+    "alt": "Business development illustration"
+  },
+  {
+    "id": 7,
+    "category": "Development",
+    "title": "Highload Software Architecture",
+    "price": 600,
+    "instructor": "Brooklyn Simmons",
+    "image": "./assets/images/7.jpg",
+    "alt": "Software development illustration"
+  },
+  {
+    "id": 8,
+    "category": "HR & Recruiters",
+    "title": "Human Resources – Selection and Recruitment",
+    "price": 150,
+    "instructor": "Kathryn Murphy",
+    "image": "./assets/images/8.jpg",
+    "alt": "HR recruitment illustration"
+  },
+  {
+    "id": 9,
+    "category": "Design",
+    "title": "User Experience. Human-centered Design",
+    "price": 240,
+    "instructor": "Cody Fisher",
+    "image": "./assets/images/9.jpg",
+    "alt": "UX design illustration"
+  }
+]
